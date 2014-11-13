@@ -1,0 +1,16 @@
+{
+  "name": "sunlight-api-test",
+  "version": "1.0.0",
+  "description": "practice with sunlight api",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Stephanie, Gabe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.2",
+    "lodash": "^2.4.1",
+    "request": "^2.48.0"
+  }
+}
